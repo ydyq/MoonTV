@@ -2,12 +2,12 @@
   "cache_time": 7200,
   "api_site": {
     "heimuer": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
     "ruyi": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
       "name": "如意资源"
     },
     "dyttzy": {
